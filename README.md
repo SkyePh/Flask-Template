@@ -3,10 +3,9 @@
 This is a basic fullstack template built with Flask that includes essential functionalities like user authentication and note management. It serves as a starting point for building various applications. The project uses SQLite for database management.
 
 ## Usage
-'''bash
+
 pip install -r requirements.txt
 
-'''bash
 python3 main.py
 
 
